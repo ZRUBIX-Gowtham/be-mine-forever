@@ -109,7 +109,7 @@ export default function Home() {
                   Will you be my Valentine?
                 </h1>
                 <p className="text-[#c9184a] text-lg font-medium opacity-80">
-                  You're the missing pixel in my life! 👾
+                  You&apos;re the missing pixel in my life! 👾
                 </p>
               </div>
 
